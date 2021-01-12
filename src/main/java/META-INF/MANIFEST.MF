@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: spring-context-4.1.4.RELEASE.jar commons-logging-1.2.jar s
+ pring-beans-4.1.4.RELEASE.jar aopalliance-1.0.jar spring-webmvc-4.1.4
+ .RELEASE.jar spring-core-4.1.4.RELEASE.jar spring-expression-4.1.4.RE
+ LEASE.jar spring-aop-4.1.4.RELEASE.jar spring-web-4.1.4.RELEASE.jar
+Main-Class: 
+

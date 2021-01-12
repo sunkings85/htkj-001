@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HelloWorld:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HelloWorld</output-path>
+    <root id="archive" name="HelloWorld_jar.jar">
+      <element id="archive" name="HelloWorld.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="HelloWorld" />
+      </element>
+      <element id="library" level="project" name="Maven: org.springframework:spring-context:4.1.4.RELEASE" />
+      <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.2" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-beans:4.1.4.RELEASE" />
+      <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.1.4.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-core:4.1.4.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-expression:4.1.4.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.1.4.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-web:4.1.4.RELEASE" />
+    </root>
+  </artifact>
+</component>
